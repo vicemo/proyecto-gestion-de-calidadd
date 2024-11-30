@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/03249ff6-3873-4bfb-a432-3231b5617c44/resourceGroups/marlonvicenteSeminario1816457_group/providers/Microsoft.Web/sites/marlonvicenteSeminario1816457",
+    "appService.deploySubpath": "."
+}
