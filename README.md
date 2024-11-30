@@ -1,1 +1,1 @@
-# proyecto-gestion-de-calidadd
+# proyecto-gestion-de-calidad
